@@ -39,6 +39,7 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 #### 📖 &nbsp;&nbsp;[fernandovezzali.github.iom](https://fernandovezzali.github.io): Last 5 articles
  
 * [Strategy Pattern](https://fernandovezzali.github.io/docs/behavioral-design-patterns/strategy-patterns) 
+* [Running SQL Server locally](https://fernandovezzali.github.io/docs/sql-server-locally)
 
 <br />
 
