@@ -32,17 +32,13 @@ I'm a back-end developer who likes to work with C#, ASP.NET, Azure, Web APIs amo
   <br />
 </div>
 
-A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
+A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on StackOverflow and Github discussions... and creating useful content to be used by developers: libraries and articles. 
 
 <br />
 
 #### 📖 &nbsp;&nbsp;[fernandovezzali.github.iom](https://fernandovezzali.github.io): Last 5 articles
  
 * [Strategy Pattern](https://fernandovezzali.github.io/docs/behavioral-design-patterns/strategy-patterns) 
-* [Teaful: tiny, easy and powerful React state management](https://aralroca.com/blog/teaful) 
-* [React state with a fragmented store](https://aralroca.com/blog/react-fragmented-store) 
-* [Virtual Sommelier, text classifier in the browser](https://aralroca.com/blog/food-pairing-classifier) 
-* [Next-translate - Version 1.0 Released](https://aralroca.com/blog/next-translate-1.0)
 
 <br />
 
